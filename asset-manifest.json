@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/vehicle-diagnostics/static/css/main.e6c13ad2.css",
-    "main.js": "/vehicle-diagnostics/static/js/main.5d72f000.js",
-    "static/js/453.656bca5f.chunk.js": "/vehicle-diagnostics/static/js/453.656bca5f.chunk.js",
+    "main.css": "/vehicle-diagnostics/static/css/main.00c4a729.css",
+    "main.js": "/vehicle-diagnostics/static/js/main.0fdc1165.js",
     "index.html": "/vehicle-diagnostics/index.html",
-    "main.e6c13ad2.css.map": "/vehicle-diagnostics/static/css/main.e6c13ad2.css.map",
-    "main.5d72f000.js.map": "/vehicle-diagnostics/static/js/main.5d72f000.js.map",
-    "453.656bca5f.chunk.js.map": "/vehicle-diagnostics/static/js/453.656bca5f.chunk.js.map"
+    "main.00c4a729.css.map": "/vehicle-diagnostics/static/css/main.00c4a729.css.map",
+    "main.0fdc1165.js.map": "/vehicle-diagnostics/static/js/main.0fdc1165.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.5d72f000.js"
+    "static/css/main.00c4a729.css",
+    "static/js/main.0fdc1165.js"
   ]
 }
