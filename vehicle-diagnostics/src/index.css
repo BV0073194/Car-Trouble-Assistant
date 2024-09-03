@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input,
+textarea {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+  width: 80%;
+  max-width: 500px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.corsAx {
+  width:100%;
+  position:fixed;
+  bottom:0px;
+}
